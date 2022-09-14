@@ -70,9 +70,8 @@ if (empty($q)) {
             <li><a rel="nofollow" href="https://www.iqiyi.com/" target="_blank"><svg class="icon" aria-hidden="true"><use xlink:href="#icon-aiqiyi"></use></svg>爱奇艺</a></li>
             <li><a rel="nofollow" href="http://www.acfun.cn/index.html" target="_blank"><svg class="icon" aria-hidden="true"><use xlink:href="#icon-acfun"></use></svg>ACFUN</a></li>
             <li><a rel="nofollow" href="https://www.bilibili.com/" target="_blank"><svg class="icon" aria-hidden="true"><use xlink:href="#icon-bili"></use></svg>哔哩哔哩</a></li>
-            <li><a rel="nofollow" href="https://www.nfmovies.com/" target="_blank"><svg class="icon" aria-hidden="true"><use xlink:href="#icon-netflix"></use></svg>奈非影视</a></li>
-            <li><a rel="nofollow" href="https://k1080.net/" target="_blank"><svg class="icon" aria-hidden="true"><use xlink:href="#icon-yingshi"></use></svg>K1080</a></li>
-            <li><a rel="nofollow" href="https://www.yunbtv.com/" target="_blank"><svg class="icon" aria-hidden="true"><use xlink:href="#icon-yunbo"></use></svg>云播TV</a></li>
+            <li><a rel="nofollow" href="https://douyu.com/" target="_blank"><svg class="icon" aria-hidden="true"><use xlink:href="#icon-douyu"></use></svg>斗鱼直播</a></li>
+            <li><a rel="nofollow" href="https://huya.com/" target="_blank"><svg class="icon" aria-hidden="true"><use xlink:href="#icon-虎牙"></use></svg>虎牙直播</a></li>
           <!------> 
             <li class="title"><svg class="icon" aria-hidden="true"><use xlink:href="#icon-youxiang"></use></svg> 邮箱</li>
             <li><a rel="nofollow" href="https://mail.google.com/mail/u/0/#inbox" target="_blank"><svg class="icon" aria-hidden="true"><use xlink:href="#icon-gmail"></use></svg>Gmail</a></li>
@@ -193,8 +192,8 @@ if (empty($q)) {
             </div>
         </div>
         <div class="foot" style="height: 40px;">
-          <a href="https://blog.5iux.cn/" style="color: #777;">博客</a> | 
-          <a href="https://hao.5iux.cn/" style="color: #777;">设计导航</a> | 
+          <a href="https://blog.03x.cc/" style="color: #777;">博客</a> | 
+          <a href="https://hao.03x.cc/" style="color: #777;">导航</a> | 
           <a href="https://dyartstyle.com/" style="color: #777;">设计资讯</a> | 
           <a href="https://wat.dyartstyle.com/" style="color: #777;">吾爱淘</a> | 
           <a href="https://github.com/5iux/sou/" style="color: #777;">Github</a><br>
